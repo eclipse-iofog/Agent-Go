@@ -1,0 +1,8 @@
+bin/*
+reports/*
+
+.idea/
+
+test.txt
+test-report.xml
+
